@@ -1,1 +1,2 @@
-# .github
+# Repositório com Padroês e Templates.
+
