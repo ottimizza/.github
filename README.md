@@ -1,3 +1,3 @@
-# Repositório com Padroês e Templates.
+# Repositório com Padrões e Templates.
 
 . 
